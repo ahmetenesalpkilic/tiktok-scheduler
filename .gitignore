@@ -1,0 +1,22 @@
+# Hassas dosya
+cookies.json
+
+# Video klasörü
+videos/
+
+# Upload geçmişi
+uploaded/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
